@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on finishing my bachelors in CS at HUJI.
 - 🌱 I’m currently learning Data Science and Artificial Intelligence.
-- 💬 Ask me about projects.
+- 💬 Feel free to ask me about my projects.
 - 📫 How to reach me: mr.danielgibor@gmail.com
 
 ## Connect me in:
