@@ -4,8 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielgibor&label=Profile%20views&color=03b800&style=flat" alt="danielgibor" /> </p>
 
-- 🔭 I’m currently working on finishing my bachelors in CS at HUJI.
-- 🌱 I’m currently learning Data Science and Artificial Intelligence.
+- 🔭 B.Sc. CS at HUJI.
 - 💬 Feel free to ask me about my projects.
 - 📫 How to reach me: mr.danielgibor@gmail.com
 
