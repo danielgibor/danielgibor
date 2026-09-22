@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I am Daniel. 👋</h1>
 
-<h3 align="center">A Passionate Computer Science B.Sc Student</h3>
+<h3 align="center">A Passionate Computer Science B.Sc Graduate</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielgibor&label=Profile%20views&color=03b800&style=flat" alt="danielgibor" /> </p>
 
